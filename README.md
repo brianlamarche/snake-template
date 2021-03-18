@@ -1,2 +1,2 @@
 # snake-template
-Template for student's snake game
+Implementation for Snake! Revisited.  Computer Science 322 WSU-TC Semester project.
